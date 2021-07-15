@@ -8,7 +8,7 @@ Other solutions use a PCB with a flexbile cable that connects the Denise RGB sig
 
 This solution somehow "merges" the previous approaches; it is based on a small PCB that is used to intercept RGB signals from the A600 Denise chip and deliver them to the Raspbery Pi zero. 
 
-[RGB2HDMI stack](/images/concept1.jpg)
+[RGB2HDMI stack](/images/concept1.png)
 
 On its bottom side, the PCB houses a PLCC-52, and on its top side a set of pins for mouting the [Denise Amiga adapter PCB](https://github.com/hoglet67/RGBtoHDMI/tree/master/kicad_AmigaAdapter/Small) that is available on [hoglet67 Github page](https://github.com/hoglet67). As suggested, the adapter CLK signal is fed from Denise's 7MHz signal.
 
