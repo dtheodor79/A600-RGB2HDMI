@@ -16,8 +16,11 @@ And this is a 3D image from KiCAD:
 
 Finally, these are a few images that show how I successfully installed it on my A600:
 
+![photo1](/images/photo1.jpg)
+![photo2](/images/photo2.jpg)
+![photo3](/images/photo3.jpg)
 
-
+Hope you find it useful! :-) 
 
 
 
