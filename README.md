@@ -20,7 +20,7 @@ Finally, these are a few images that show how I successfully installed it on my 
 ![photo2](/images/photo2.jpg)
 ![photo3](/images/photo3.jpg)
 
-Hope you find it useful! :sunglasses: 
+Hope you find it useful!! :sunglasses: 
 
 
 
